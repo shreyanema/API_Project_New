@@ -1,0 +1,26 @@
+[
+{
+    "price": 304,
+    "company":"apple"
+},
+{
+    "name": "S20",
+    "price": 404,
+    "company":"samsung"
+},
+{
+    "name": "dell gaming",
+    "price": 500,
+    "company":"del"
+},
+{
+    "name": "Mi20",
+    "price": 900,
+    "company":"mi"
+},
+{
+    "name": "iphone",
+    "price": 1000,
+    "company":"apple"
+}
+]
